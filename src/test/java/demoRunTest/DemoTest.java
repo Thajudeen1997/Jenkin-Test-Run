@@ -11,6 +11,10 @@ public class DemoTest {
 	public void Test2() {
 		System.out.println("inside test2");
 	}	
+	@Test
+	public void Test3() {
+		System.out.println("inside test3");
+	}	
 }
 
 
