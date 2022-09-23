@@ -2,7 +2,7 @@ package demoRunTest;
 
 import org.testng.annotations.Test;
 
-public class DemoTest {
+public class DemoRunTest {
 	@Test
 	public void Test1() {
 		System.out.println("inside test1");

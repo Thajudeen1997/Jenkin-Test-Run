@@ -2,7 +2,7 @@ package demoRunTest;
 
 import org.testng.annotations.Test;
 
-public class DemoTest2 {
+public class Demo1Test {
 	@Test
 	public void Test1() {
 		String browserName = System.getProperty("browser");
