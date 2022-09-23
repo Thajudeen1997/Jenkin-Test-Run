@@ -5,6 +5,8 @@ import org.testng.annotations.Test;
 public class DemoTest2 {
 	@Test
 	public void Test1() {
+		String browserName = System.getProperty("browser");
+		System.out.println(browserName);
 		System.out.println("inside test2.1");
 	}
 	@Test
